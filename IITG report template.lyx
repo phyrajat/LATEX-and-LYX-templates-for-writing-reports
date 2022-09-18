@@ -8,7 +8,7 @@
 \begin_preamble
 %variables
 \newcommand{\reportname}{State of the Art Seminar Report}
-\newcommand{\reportnameshort}{SAOS Report}
+\newcommand{\reportnameshort}{SOAS Report}
 \newcommand{\logofilename}{IITG_logo.png}
 \newcommand{\titletext}{Neutrino Oscillations}
 \newcommand{\authortext}{Rajat Kumar Mandal}
